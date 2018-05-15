@@ -1,0 +1,16 @@
+
+\Debug
+
+\Release
+
+*.db
+
+\.vs
+
+\x64
+
+\Pong\Debug
+
+\Pong\Release
+
+\Pong\x64
